@@ -6,4 +6,4 @@ The "'Guard' Skin Removal" will remove the skin from the STG Guard without repla
 
 Enjoy!
 
-- FastestClassic
+Made by FastestClassic.
